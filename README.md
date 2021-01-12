@@ -1,5 +1,5 @@
 # interview_UTU
 
-front: JS
+front: 
 
 back: python, MongoDB 
